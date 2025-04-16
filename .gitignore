@@ -1,0 +1,14 @@
+# Psiphon binary (downloaded automatically)
+psiphon-tunnel-core
+*.tmp
+
+# Local version tracking file
+.current_psiphon_version
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# User config file (optional: if user creates one manually)
+# client.config 
