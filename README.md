@@ -21,7 +21,7 @@ Termux ပေါ်တွင် Psiphon command-line client (`psiphon-tunnel-cor
 3.  Clone လုပ်ထားသော directory ထဲသို့ ဝင်ပါ:
 
     ```bash
-    cd psiphon-runner-termux
+    cd update-Psiphon-py
     ```
 5.  လိုအပ်သော Python library ကို install လုပ်ပါ:
 
